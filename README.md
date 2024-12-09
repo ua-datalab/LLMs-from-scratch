@@ -1,4 +1,4 @@
-**(A cloned repository from [Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/tree/main) with the same name (12/08/2024).**
+**{A cloned repository from [Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/tree/main) with the same name (12/08/2024).}**
 
 # Build a Large Language Model (From Scratch)
 
@@ -22,6 +22,7 @@ The method described in this book for training and developing your own small-but
 - [Link to the book page on Amazon.com](https://www.amazon.com/gp/product/1633437167)
 - ISBN 9781633437166
 
+<!--
 <a href="http://mng.bz/orYv#reviews"><img src="https://sebastianraschka.com//images/LLMs-from-scratch-images/other/reviews.png" width="220px"></a>
 
 
@@ -41,6 +42,7 @@ git clone --depth 1 https://github.com/rasbt/LLMs-from-scratch.git
 <br>
 <br>
 
+-->
 
 # Table of Contents
 
