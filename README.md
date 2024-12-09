@@ -1,5 +1,8 @@
+**(A cloned repository from [Sebastian Raschka](https://github.com/rasbt/LLMs-from-scratch/tree/main) with the same name (12/08/2024).**
+
 # Build a Large Language Model (From Scratch)
 
+<!--
 This repository contains the code for developing, pretraining, and finetuning a GPT-like LLM and is the official code repository for the book [Build a Large Language Model (From Scratch)](https://amzn.to/4fqvn0D).
 
 <br>
@@ -8,6 +11,7 @@ This repository contains the code for developing, pretraining, and finetuning a 
 <a href="https://amzn.to/4fqvn0D"><img src="https://sebastianraschka.com/images/LLMs-from-scratch-images/cover.jpg?123" width="250px"></a>
 
 <br>
+-->
 
 In [*Build a Large Language Model (From Scratch)*](http://mng.bz/orYv), you'll learn and understand how large language models (LLMs) work from the inside out by coding them from the ground up, step by step. In this book, I'll guide you through creating your own LLM, explaining each stage with clear text, diagrams, and examples.
 
